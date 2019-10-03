@@ -13,3 +13,9 @@ ios13
 
 ### iii. ¿Qué características tiene la versión más nueva?
 Mejoras en: Modo oscuro, fotos,  cámara,privacidad y seguridad, iniciar sesión con Apple, homeKit, mapas, siri, atajos, homePod, irPods, memoji y mensajes, teclado, recordatorios, cardPlay, actuación y realidad aumentada entre otras
+
+## 2.Entra a https://developer.apple.com/videos/wwdc2019/ y contesta:
+
+### i. ¿Qué es la WWDC, e investiga sobre la beca para estudiantes?
+Son una serie de conferencias que se celebran cada año  y en ella se muestran las novedades de las principales plataformas de Apple tanto de software como de hardware
+### ii. Lee todos los títulos de los videos junto con su descripción y enlista 3 videos que te hayan llamado la atención
